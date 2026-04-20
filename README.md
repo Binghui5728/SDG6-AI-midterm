@@ -1,0 +1,1 @@
+# SDG6-AI-midterm
