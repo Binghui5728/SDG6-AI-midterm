@@ -11,6 +11,7 @@ Propose a Machine Learning (ML)-based solution to address a Sustainable Developm
 [Include a sample code snippet for data processing]
 [update for next year: Specify the Referenced Kaggle project and the Gemini Colab interaction progressas another attachment ]
 •	參考數據集： https://www.kaggle.com/datasets/adityakadiwal/water-potability
+•	code snippet for data processing（Gemini Colab）： https://colab.research.google.com/drive/1zhMp_LrNAAwyKyA9z8Cg7TKc3ZGohRQ4?usp=sharing
 •	關鍵特徵：
   o	pH 值： 酸鹼度。
   o	Turbidity (濁度)： 懸浮物含量。
