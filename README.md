@@ -21,7 +21,10 @@ Propose a Machine Learning (ML)-based solution to address a Sustainable Developm
   o	缺失值補全： 該數據集常有 pH 值缺失，需使用均值或中位數填充。
   o	特徵縮放： 不同指標單位差異巨大（如電導率與 pH 值），需進行歸一化。
 
-
 3.Model Selection and Discussion – Explain the ML model used and discuss its suitability.
+•	擬選用模型：Support Vector Machines (SVM) 或 Random Forest
+•	討論：
+  o	非線性關係：水質是否可飲用通常不是單一指標決定的，而是多個特徵間的非線性組合。SVM 搭配 RBF Kernel 能有效處理這類高維度的分類問題。
+  o	可靠性： 隨機森林則能處理數據中的異常值（Outliers），並提供特徵重要性排序，讓我們知道哪個指標對水質影響最大。
 
 4.Training and Testing – Describe the training and testing process. [Preliminary results are preferred]
