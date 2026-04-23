@@ -13,7 +13,9 @@ Propose a Machine Learning (ML)-based solution to address a Sustainable Developm
 [Include a sample code snippet for data processing]
 [update for next year: Specify the Referenced Kaggle project and the Gemini Colab interaction progressas another attachment ]
 •	Reference Dataset: https://www.kaggle.com/datasets/adityakadiwal/water-potability
-•	code snippet for data processing（Gemini Colab）： https://colab.research.google.com/drive/1zhMp_LrNAAwyKyA9z8Cg7TKc3ZGohRQ4?usp=sharing
+•	code snippet for data processing（Gemini Colab）： 
+  o	https://colab.research.google.com/drive/1zhMp_LrNAAwyKyA9z8Cg7TKc3ZGohRQ4?usp=sharing
+  o	https://github.com/Binghui5728/SDG6-AI-midterm/blob/main/SDG6_AI_midterm.ipynb
 •	Key Features:
   o	pH Level: Acidity or alkalinity.
   o	Turbidity: Level of suspended solids.
